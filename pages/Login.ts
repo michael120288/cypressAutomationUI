@@ -15,3 +15,4 @@ class Login {
 export const LoginPage = new Login();
 // new Array = []
 // new Object = {};
+// new Object = {};
