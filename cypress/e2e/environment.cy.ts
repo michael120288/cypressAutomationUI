@@ -15,4 +15,3 @@ describe('ENV', () => {
         cy.visit('/expected_conditions.html');
     });
 });
-

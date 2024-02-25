@@ -6,13 +6,20 @@
     "scripts": {
         "open": "cypress open --e2e --browser chrome",
         "open2": "cypress open --e2e",
-        "prettier": "npx prettier . --write"
+        "prettier": "npx prettier . --write",
+        "cypress-run": "cypress run --browser chrome --spec cypress/e2e/autoFill.cy.ts",
+        "cypressTest": "cypress run --browser chrome --spec cypress/e2e/**"
     },
     "author": "Mike",
     "license": "ISC",
     "devDependencies": {
-        "cypress": "^13.6.2",
+        "cypress": "^13.6.4",
+        "cypress-iframe": "^1.0.1",
+        "cypress-mochawesome-reporter": "^3.8.1",
         "prettier": "3.2.4",
         "typescript": "^5.3.3"
+    },
+    "dependencies": {
+        "node-xlsx": "^0.23.0"
     }
 }

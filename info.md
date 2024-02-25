@@ -21,18 +21,17 @@ npm install cypress --save-dev
 
 DNR
 
-
 let obj = {
-  "open new page": true,
-  open_page:false,
-  "open":boolean
+"open new page": true,
+open_page:false,
+"open":boolean
 }
 obj["open new page"]
 obj.open_page
 
 git
 
-1.git add . -- add all files to git
+1.git add . // add all files to git
 
-  2. git commit -m "text" -- commit
-  3.git push origin master
+2. git commit -m "text" // commit
+   3.git push origin master

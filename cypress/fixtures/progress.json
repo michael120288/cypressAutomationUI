@@ -1,0 +1,97 @@
+{
+    "message": "Get courses progress",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "_id": "5ff3eea4903502003ab726f5",
+            "completedLessons": 21,
+            "totalLessons": 42,
+            "course": {
+                "_id": "5c140b2b42f6ea23059cbe8f",
+                "name": "JavaScript Syntax. Archived"
+            }
+        },
+        {
+            "_id": "6094bfbb6df486003af03704",
+            "completedLessons":1,
+            "totalLessons": 5,
+            "course": {
+                "_id": "5d1cbad8086fc30038bf1856",
+                "name": "QA Basics"
+            }
+        },
+        {
+            "_id": "601c4f01563db3003a531230",
+            "completedLessons": 17,
+            "totalLessons": 17,
+            "course": {
+                "_id": "5f449251891af4003c44e957",
+                "name": "HTML, CSS Syntax"
+            }
+        },
+        {
+            "_id": "6022f169dfed3e003a38a53d",
+            "completedLessons": 75,
+            "totalLessons": 115,
+            "course": {
+                "_id": "5ff2005cacc2d5003ae26bc7",
+                "name": "QA Manual"
+            }
+        },
+        {
+            "_id": "605ce29b248fa4003a8cf521",
+            "completedLessons": 49,
+            "totalLessons": 49,
+            "course": {
+                "_id": "5f533d699a51f5003cb0fcab",
+                "name": "Express JS"
+            }
+        },
+        {
+            "_id": "604d43ed3f648c003a8c5776",
+            "completedLessons": 14,
+            "totalLessons": 14,
+            "course": {
+                "_id": "5f70329bbed3ac003cb1b06c",
+                "name": "Git and GitHub"
+            }
+        },
+        {
+            "_id": "654168377b5b76774ea569c3",
+            "completedLessons": 3,
+            "totalLessons": 4,
+            "course": {
+                "_id": "62d182a3f64df852198549f8",
+                "name": "API Testing for QA"
+            }
+        },
+        {
+            "_id": "600b203277be48003a724166",
+            "completedLessons": 107,
+            "totalLessons": 112,
+            "course": {
+                "_id": "5d1cbf67086fc30038bf1859",
+                "name": "JavaScript Practice"
+            }
+        },
+        {
+            "_id": "6132df3d750076003bc2dd16",
+            "completedLessons": 30,
+            "totalLessons": 62,
+            "course": {
+                "_id": "5e8f4bf674a4cd003c2a713c",
+                "name": "Python Syntax"
+            }
+        },
+        {
+            "_id": "60526c88b5e416003a60f020",
+            "completedLessons": 6,
+            "totalLessons": 66,
+            "course": {
+                "_id": "5fcc749061045d003aa18fba",
+                "name": "React JS"
+            }
+        }
+    ]
+}
